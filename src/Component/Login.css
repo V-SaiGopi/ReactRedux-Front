@@ -1,0 +1,64 @@
+* {
+  justify-content: center;
+  /* background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000"); */
+}
+
+
+.login {
+  display: flex;
+  flex-direction: column;
+  min-height: 50vh;
+  align-items: center;
+  
+}
+
+  label {
+      text-align: left;
+      padding: 0.25rem 0;
+  }
+
+  input {
+      margin: 0.5rem 0;
+  }
+
+.form-login {
+  position: relative;
+}
+
+span {
+  font-size: xxx-large;
+  font-weight: 900;
+  text-decoration: underline;
+  color: rgb(249, 249, 252);
+}
+
+.context {
+  height: 100vh;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/013/019/351/original/protect-employee-data-concept-design-template-with-white-glyph-icons-infographics-with-editable-flat-pictograms-on-abstract-background-illustration-for-ad-web-banner-business-presentation-vector.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.label {
+  color: aliceblue;
+  font-size: large;
+}
+
+.container {
+  padding: 28px;
+}
+
+.dash-content {
+  height: 850px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yN2DArirFW6YnOn0TM5ZrwciuK_brWrqlvSiPG_tB-cCyQfG6ykWtqRvHnPoVUAz0v0&usqp=CAU);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.form-div table tr th, table tr td {
+  padding: 7px;
+}

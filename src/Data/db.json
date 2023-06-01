@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Venkat",
+      "sex": "F",
+      "dob": "1990-10-10",
+      "salary": "56000",
+      "department": "Sales"
+    },
+    {
+      "id": 4,
+      "name": "Ashish Varma",
+      "sex": "M",
+      "dob": "2023-05-11",
+      "salary": "76598",
+      "department": "Accounts"
+    },
+    {
+      "id": 7,
+      "name": "Sai Gopi",
+      "sex": "M",
+      "dob": "2000-08-07",
+      "salary": "70000",
+      "department": "Sales"
+    },
+    {
+      "id": 8,
+      "name": "Andrea Henza",
+      "sex": "F",
+      "dob": "2000-06-07",
+      "salary": "40000",
+      "department": "Accounts"
+    },
+    {
+      "name": "Alexa Costa",
+      "sex": "F",
+      "dob": "1996-07-10",
+      "salary": "55000",
+      "department": "HR",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Hawk xd",
+      "sex": "M",
+      "dob": "1996-05-14",
+      "salary": "60000",
+      "department": "Accounts"
+    },
+    {
+      "name": "Sabastian Norte",
+      "sex": "M",
+      "dob": "1995-05-19",
+      "salary": "56000",
+      "department": "Sales",
+      "id": 11
+    },
+    {
+      "name": "Virat kohli",
+      "sex": "M",
+      "dob": "1992-10-17",
+      "salary": "100000",
+      "department": "Accounts",
+      "id": 12
+    },
+    {
+      "name": "Glen bracey",
+      "sex": "F",
+      "dob": "1999-06-09",
+      "salary": "40000",
+      "department": "Sales",
+      "id": 13
+    },
+    {
+      "name": "Divya Sai",
+      "sex": "F",
+      "dob": "2000-05-17",
+      "salary": "28000",
+      "department": "Accounts",
+      "id": 15
+    }
+  ]
+}
